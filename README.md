@@ -1,4 +1,3 @@
-Hi
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,7 +24,7 @@ Hi
             border-radius: 10px;
             text-align: center;
             background-color: white;
-            width: 300px;
+            width: 400px;
             position: relative;
         }
         .credit {
@@ -68,7 +67,7 @@ Hi
             <!-- Dynamic content will be inserted here -->
         </div>
         <div class="credit">
-            Created by Dominique E.<br>
+            Created by Dominiki/que Est.<br>
         </div>
     </div>
 
@@ -109,7 +108,7 @@ Hi
                 content.innerHTML = `
                     <img src="cute.jpg" alt="Love Image" class="image">
                     <p>Akoy kinikilig yiee</p>
-                    <audio autoplay>
+                    <audio controls autoplay>
                         <source src="Kilig1.mp3" type="audio/mpeg">
                         Your browser does not support the audio element.
                     </audio>
@@ -118,7 +117,7 @@ Hi
                 content.innerHTML = `
                     <img src="kermit.jpg" alt="Sad Image" class="image">
                     <p>Ay :(</p>
-                    <audio autoplay>
+                    <audio controls autoplay>
                         <source src="Same Ground.mp3" type="audio/mpeg">
                         Your browser does not support the audio element.
                     </audio>
@@ -152,3 +151,4 @@ Hi
     </script>
 </body>
 </html>
+
