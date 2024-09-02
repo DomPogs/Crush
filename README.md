@@ -124,6 +124,7 @@
                 `;
             } else if (page === 'noPage') {
                 content.innerHTML = `
+                    <p>Oh Let me treat you today :)</p>
                     <p>May gusto kasi akong sabihin sayo</p>
                     <button class="what-button" onclick="showContent('noWhatPage')">What</button>
                 `;
