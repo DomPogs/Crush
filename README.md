@@ -116,7 +116,9 @@
             } else if (page === 'sadMusic') {
                 content.innerHTML = `
                     <img src="kermit.jpg" alt="Sad Image" class="image">
-                    <p>Ay :(</p>
+                    <p>Patawad, Amanai. Subalit hindi man lang ako nakakaramdam ng galit sa iyo ngayon. Wala akong itinatanim na galit sa kung kanino man. Ngayon lang kasi'y parang napakaganda ng mundo. Mula sa langit at lupa, ako lamang ang pinarangalan.
+Ang merito ng pagkakaroon ng kapamaraanan na ipinasa sa mga henerasyon ay ang pagkakaroon ng isang manwal. Ngunit, ang demerito nito ay ang impormasyon tungkol sa kapamaraanan ay madaling kumalat. Isa kang miyembro ng Zen'in clan, hindi ba? Kaya pala ang dami mong alam tungkol sa Walang Hangganang Kapamaraanan. Pero, kahit sa angkan ng Gojo, bilang lamang ang nakakaalam nito. Kunin ang pinabisa at ang binaliktad, pagsama-samahin ang dalawang magkaibang ekspresyon ng walang hanggan upang makabuo at maitulak ang likhang masa.
+Haka-hakang kapamaraanan: Lila</p>
                     <audio controls autoplay>
                         <source src="Same Ground.mp3" type="audio/mpeg">
                         Your browser does not support the audio element.
