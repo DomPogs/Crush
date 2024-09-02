@@ -67,7 +67,7 @@
             <!-- Dynamic content will be inserted here -->
         </div>
         <div class="credit">
-            Created by Dominiki/que Est.<br>
+            Created by Dominique E.<br>
         </div>
     </div>
 
@@ -108,7 +108,7 @@
                 content.innerHTML = `
                     <img src="cute.jpg" alt="Love Image" class="image">
                     <p>Akoy kinikilig yiee</p>
-                    <audio controls autoplay>
+                    <audio autoplay>
                         <source src="Kilig1.mp3" type="audio/mpeg">
                         Your browser does not support the audio element.
                     </audio>
@@ -117,7 +117,7 @@
                 content.innerHTML = `
                     <img src="kermit.jpg" alt="Sad Image" class="image">
                     <p>Ay :(</p>
-                    <audio controls autoplay>
+                    <audio autoplay>
                         <source src="Same Ground.mp3" type="audio/mpeg">
                         Your browser does not support the audio element.
                     </audio>
